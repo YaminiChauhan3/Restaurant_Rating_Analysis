@@ -3,7 +3,7 @@
 ![istockphoto-1157450708-612x612](https://user-images.githubusercontent.com/98810351/210957506-bae17bd2-02be-43b1-bb8e-d850e25db922.jpg)
  ## About the dataset :
 
-🍸 We found this dataset from Maven Analytics. Restaurant ratings in Mexico by real consumers from 2012 with 5 CSV Files.
+🍸 I found this dataset from Maven Analytics. Restaurant ratings in Mexico by real consumers from 2012 with 5 CSV Files.
 
 🍸Customer Details: The table contains customer information.
 
